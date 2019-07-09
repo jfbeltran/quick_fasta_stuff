@@ -1,0 +1,28 @@
+[I 10:30:18.520 LabApp] JupyterLab extension loaded from /home/jfb294/miniconda3/envs/jp3/lib/python3.6/site-packages/jupyterlab
+[I 10:30:18.520 LabApp] JupyterLab application directory is /home/jfb294/miniconda3/envs/jp3/share/jupyter/lab
+[W 10:30:18.528 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 10:30:18.537 LabApp] JupyterLab extension loaded from /home/jfb294/miniconda3/envs/jp3/lib/python3.6/site-packages/jupyterlab
+[I 10:30:18.537 LabApp] JupyterLab application directory is /home/jfb294/miniconda3/envs/jp3/share/jupyter/lab
+[I 10:30:18.538 LabApp] Serving notebooks from local directory: /local/workdir/users/jfb294
+[I 10:30:18.538 LabApp] The Jupyter Notebook is running at:
+[I 10:30:18.538 LabApp] http://localhost:8001/?token=13545bd483fa8baa26e37c194b0e8cc23357a30e21eba7bd
+[I 10:30:18.538 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:30:18.538 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8001/?token=13545bd483fa8baa26e37c194b0e8cc23357a30e21eba7bd
+[I 10:30:37.151 LabApp] 302 GET /?token=13545bd483fa8baa26e37c194b0e8cc23357a30e21eba7bd (::1) 0.41ms
+[W 10:30:38.287 LabApp] 404 GET /api/contents/get_usage.py?content=0&1560436238272 (::1): No such file or directory: get_usage.py
+[W 10:30:38.287 LabApp] No such file or directory: get_usage.py
+[W 10:30:38.287 LabApp] 404 GET /api/contents/get_usage.py?content=0&1560436238272 (::1) 0.85ms referer=http://localhost:8001/lab
+[I 10:30:38.582 LabApp] Node v11.11.0
+    
+[I 10:30:38.594 LabApp] Build is up to date
+[W 10:30:50.405 LabApp] Notebook 20190114.1 - Parse Peter.ipynb is not trusted
+[I 10:30:51.019 LabApp] Kernel started: 52695002-717e-49eb-ac5a-39d89b45b582
+[I 10:30:57.604 LabApp] Adapting to protocol v5.1 for kernel 52695002-717e-49eb-ac5a-39d89b45b582
+[I 10:30:57.605 LabApp] Adapting to protocol v5.1 for kernel 52695002-717e-49eb-ac5a-39d89b45b582
+[W 10:31:03.302 LabApp] Notebook 20190114.1 - Parse Peter.ipynb is not trusted
+[I 10:31:03.473 LabApp] Adapting to protocol v5.1 for kernel 52695002-717e-49eb-ac5a-39d89b45b582
+[I 10:31:16.198 LabApp] Kernel shutdown: 52695002-717e-49eb-ac5a-39d89b45b582
